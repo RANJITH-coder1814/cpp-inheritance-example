@@ -1,0 +1,2 @@
+# cpp-inheritance-example
+C++ 
